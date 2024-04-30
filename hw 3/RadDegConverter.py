@@ -1,5 +1,5 @@
 #This program takes in a number and converts it to radians or degrees depending on user input 
-#Author: Gabi Bartolo
+
 import math
 
 # deg = r * (180/pi) 

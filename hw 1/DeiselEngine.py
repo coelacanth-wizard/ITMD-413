@@ -1,5 +1,4 @@
 #Write a program based on a flowchart for troubleshooting a diesel engine 
-# Author: Gabi Bartolo 
 
 def main():
     light = input('Check your status lights, are they: \n<1> Green\n<2> Red\n<3> Amber\n')

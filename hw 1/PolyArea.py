@@ -1,5 +1,4 @@
 # Write a program that takes in the sides and length of a polygons sides and finds the area
-# Author: Gabi Bartolo 
 
 import math 
 
