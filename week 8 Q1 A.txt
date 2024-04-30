@@ -1,0 +1,40 @@
+Series a.
+0     7
+1    11
+2    13
+3    17
+dtype: int64
+
+Series b.
+0    100.0
+1    100.0
+2    100.0
+3    100.0
+4    100.0
+dtype: float64
+
+Series c.
+count    20.000000
+mean     35.950000
+std      24.038292
+min       0.000000
+25%      14.750000
+50%      33.000000
+75%      59.500000
+max      75.000000
+dtype: float64
+
+Series d.
+Julie       98.6
+Charlie     98.9
+Sam        100.2
+Andrea      97.9
+Name: Temperatures, dtype: float64
+
+Series e.
+{'Julie': 98.6, 'Charlie': 98.9, 'Sam': 100.2, 'Andrea': 97.9}
+Julie       98.6
+Charlie     98.9
+Sam        100.2
+Andrea      97.9
+dtype: float64

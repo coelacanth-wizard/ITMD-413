@@ -1,0 +1,58 @@
+Hello and welcome to the Company Email Records!
+
+1. Lookup an Email
+2. Add a new Email
+3. Change an existing record
+4. Delete an existing record
+5. See records
+6. Exit
+Email successfully added!
+
+1. Lookup an Email
+2. Add a new Email
+3. Change an existing record
+4. Delete an existing record
+5. See records
+6. Exit
+Email successfully added!
+
+1. Lookup an Email
+2. Add a new Email
+3. Change an existing record
+4. Delete an existing record
+5. See records
+6. Exit
+Record successfully changed!
+
+1. Lookup an Email
+2. Add a new Email
+3. Change an existing record
+4. Delete an existing record
+5. See records
+6. Exit
+{'ben ': 'ben@email.com', 'rain': 'bog@email.com'}
+
+1. Lookup an Email
+2. Add a new Email
+3. Change an existing record
+4. Delete an existing record
+5. See records
+6. Exit
+bog@email.com
+Record successfully deleted!
+
+1. Lookup an Email
+2. Add a new Email
+3. Change an existing record
+4. Delete an existing record
+5. See records
+6. Exit
+{'ben ': 'ben@email.com'}
+
+1. Lookup an Email
+2. Add a new Email
+3. Change an existing record
+4. Delete an existing record
+5. See records
+6. Exit
+Thank you for using the Company Email Records!

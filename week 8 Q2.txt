@@ -1,0 +1,25 @@
+
+
+There were  1309 passengers on the Titanic.
+Number of Male Passengers: 843
+Number of Female Passengers: 466
+The average age of all the passengers was:  29.881134512434034
+There are  249  passengers under 21 years old.
+Total Passengers Survived:  500  Male:  161 , Female:  339
+Total Passengers Deceased:  809  Male:  682 , Female:  127
+The youngest survivor was Dean, Miss. Elizabeth Gladys M . They were 0.166700006 years old.
+The oldest survivor was Barkworth, Mr. Algernon Henry W They were 80.0 years old.
+
+List of passengers:
+ 0         Allen, Miss. Elisabeth Walton
+1        Allison, Master. Hudson Trevor
+2          Allison, Miss. Helen Loraine
+3       Allison, Mr. Hudson Joshua Crei
+4       Allison, Mrs. Hudson J C (Bessi
+                     ...               
+1304               Zabour, Miss. Hileni
+1305              Zabour, Miss. Thamine
+1306          Zakarian, Mr. Mapriededer
+1307                Zakarian, Mr. Ortin
+1308                 Zimmerman, Mr. Leo
+Name: Name, Length: 1309, dtype: object
